@@ -7,7 +7,7 @@ Author- AYUSH PUNDIR
 Tic-Tac-Toe is a classic two-player game where players take turns marking spaces in a 3x3 grid with X's and O's. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.
 <br><br>
 
-# Live link - 
+# Live link - https://ap-cloud1.github.io/TicTacToe/
 
 <br>
 
@@ -27,9 +27,9 @@ Setup
 Follow these instructions to set up and run the Tic Tac Toe game project:
 
 Clone the Repository:
-git clone https://github.com/phuchoa2001/ULTIMATE-JAVASCRIPT-PROJECT.git
+git clone https://github.com/AP-cloud1/TicTacToe.git
 <br>
-cd Games/1-tic_tac_toe
+cd TicTacToe
 <br>
 Open the Project: Open the index.html file in your preferred web browser to start the game.
 
